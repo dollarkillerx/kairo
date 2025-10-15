@@ -351,16 +351,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact & Support
-
-- **Website**: https://kairo-wallet.io
-- **Documentation**: https://docs.kairo-wallet.io
-- **GitHub**: https://github.com/yourusername/kairo
-- **Twitter**: @KairoWallet
-- **Discord**: https://discord.gg/kairo
-
----
-
 ## Acknowledgments
 
 Built with:
